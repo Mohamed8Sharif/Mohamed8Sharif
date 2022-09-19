@@ -1,6 +1,5 @@
 - 👋 Hi there, im Mohamed!
-- 🌱 I’m currently learning C++ and networking on UNIX
-- 🤔 I’m looking for help with life advice
+- 🌱 I’m currently learning C++ and networking on UNIX at Northern Illinois University
 - 💬 Ask me about Motorcycles 🏍️ 
 - 📫 How to reach me: Mohamed8Sharif@gmail.com
 - 😄 Pronouns: He/Him
